@@ -11,7 +11,7 @@ packup is an RStudio addin. Once the package is installed you can invoke a packu
 ![alphabetical!](https://raw.githubusercontent.com/milesmcbain/packup/master/inst/media/packup_demo.gif)
 
 # Installation
-`devtools::install_github("milesmcbain/packup")`
+`remotes::install_github("milesmcbain/packup")`
 
 # Acknowledgements
 Thanks to my friends @masalmon and @aammd, and @njtierney for coming up with this idea and inspiring me to make it happen for the great of all!
